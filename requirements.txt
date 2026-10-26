@@ -1,0 +1,4 @@
+google-genai>=1.40,<2
+google-api-python-client>=2.160,<3
+google-auth-oauthlib>=1.2,<2
+Pillow>=11.1,<13
